@@ -1,3 +1,4 @@
 test revert
 local
 local
+merge
